@@ -6,3 +6,11 @@ desarrollo de aplicaciones web, en concreto de la asignatura
 Entornos de Desarrollo, que se encarga de enseñarnos qué son
 los IDEs, cómo usarlos y sacarles el máximo partido como
 futuros desarrolladores.
+
+Estos son los módulos de este Grado Superior:
+-> Programacion.
+-> Entornos de desarrollo.
+-> Bases de datos.
+-> Lenguaje de marcas.
+-> Sistemas informáticos.
+-> FOL.
